@@ -53,7 +53,7 @@ const translation = {
     engage_P3:
       "La réduction de la consommation électrique constitue un axe de travail permanent: La Brasserie Lorraine est équipée de 5 000 m² de panneaux photovoltaïques, qui permettent de réduire significativement l’utilisation d’énergies fossiles. Cette centrale photovoltaïque a une puissance totale d’un demi-mégawatt (510 kw) et a  produit depuis sa construction (en 2012) 7 gigawatts d’énergie verte. Cela représente environ 23% de la consommation électrique de la Brasserie Lorraine. Par ailleurs, les équipes de la Brasserie travaillent en continu sur les économies d’énergie.",
     engage_P4:
-      "Le recyclage des bouteilles, via sa gamme de produits consignés, représente toujours une part conséquente de l’activité permettant d’économiser jusqu’à 200 tonnes de verre par an.",
+      "Le recyclage EETETETET des bouteilles, via sa gamme de produits consignés, représente toujours une part conséquente de l’activité permettant d’économiser jusqu’à 200 tonnes de verre par an.",
     reuse_title:
       '<span className="Reuse-title-font w900 yellow">LE RECYCLAGE DES DRÊCHES</span><br />DE BRASSERIE LORRAINE, EN MARTINIQUE',
     reuse_stat_left:
