@@ -1,6 +1,6 @@
 const translation = {
   fr: {
-    filter_slogan_firstP: "BIENVENUE SUR LE SITE DE LA BRASSERIE LORRAINE",
+    filter_slogan_firstP: "BIENVENUE SUR test LE SITE DE LA BRASSERIE LORRAINE",
     filter_slogan_secondP: "QUI DIT MIEUX ?",
     filter_indication_default: "Inscrivez votre date de naissance",
     filter_indication_error:
